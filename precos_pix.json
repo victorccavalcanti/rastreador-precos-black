@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "paymentCondition": "PIX",
+  "schedule": [
+    "07:00",
+    "19:00"
+  ],
+  "isDemo": false,
+  "history": {
+    "deco-x50": [],
+    "deco-be22": [],
+    "electrolux-ls10e": [],
+    "samsung-wd13fg": []
+  },
+  "updatedAt": "2026-11-21T10:17:21.449019-03:00"
+}
